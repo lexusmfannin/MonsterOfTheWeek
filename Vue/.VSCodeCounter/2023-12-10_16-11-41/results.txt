@@ -1,0 +1,81 @@
+Date : 2023-12-10 16:11:41
+Directory : c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue
+Total : 44 files,  7549 codes, 47 comments, 207 blanks, all 7803 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          2 |      5,124 |          0 |          2 |      5,126 |
+| vue        |         31 |      1,860 |         24 |        153 |      2,037 |
+| JavaScript |          8 |        304 |         22 |         47 |        373 |
+| Markdown   |          1 |        243 |          0 |          3 |        246 |
+| HTML       |          1 |         17 |          1 |          1 |         19 |
+| Properties |          1 |          1 |          0 |          1 |          2 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                            | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                               |         44 |      7,549 |         47 |        207 |      7,803 |
+| . (Files)                                                                                                       |          7 |      5,424 |          3 |         11 |      5,438 |
+| src                                                                                                             |         37 |      2,125 |         44 |        196 |      2,365 |
+| src (Files)                                                                                                     |          2 |         75 |          9 |         10 |         94 |
+| src\components                                                                                                  |         15 |      1,042 |          0 |         76 |      1,118 |
+| src\router                                                                                                      |          1 |        145 |          6 |         10 |        161 |
+| src\services                                                                                                    |          3 |         48 |          0 |         21 |         69 |
+| src\store                                                                                                       |          1 |         56 |          5 |          6 |         67 |
+| src\views                                                                                                       |         15 |        759 |         24 |         73 |        856 |
++-----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                        | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\.env                                     | Properties |          1 |          0 |          1 |          2 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\.eslintrc.js                             | JavaScript |         28 |          1 |          1 |         30 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\README.md                                | Markdown   |        243 |          0 |          3 |        246 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\index.html                               | HTML       |         17 |          1 |          1 |         19 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\package-lock.json                        | JSON       |      5,097 |          0 |          1 |      5,098 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\package.json                             | JSON       |         27 |          0 |          1 |         28 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\App.vue                              | vue        |         59 |          0 |          4 |         63 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\APIService.vue            | vue        |         40 |          0 |          3 |         43 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\CharacterList.vue         | vue        |         60 |          0 |          6 |         66 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\CommentMessageDetails.vue | vue        |         86 |          0 |          2 |         88 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\CommentMessageForm.vue    | vue        |        107 |          0 |          6 |        113 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\CommentMessageSummary.vue | vue        |         38 |          0 |          3 |         41 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\CommentTopicDetails.vue   | vue        |         85 |          0 |          3 |         88 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\CommentTopicForm.vue      | vue        |        126 |          0 |          5 |        131 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\CommentTopicList.vue      | vue        |         37 |          0 |          2 |         39 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\GetParty.vue              | vue        |         51 |          0 |          7 |         58 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\GlobalLogoHeader.vue      | vue        |         26 |          0 |          1 |         27 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\MOTW.vue                  | vue        |        101 |          0 |          3 |        104 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\NavBar.vue                | vue        |         48 |          0 |          5 |         53 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\Profile.vue               | vue        |        215 |          0 |         13 |        228 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\Vote.vue                  | vue        |         17 |          0 |         16 |         33 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\Welcome.vue               | vue        |          5 |          0 |          1 |          6 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\main.js                              | JavaScript |         16 |          9 |          6 |         31 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\router\index.js                      | JavaScript |        145 |          6 |         10 |        161 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\services\AuthService.js              | JavaScript |          9 |          0 |          5 |         14 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\services\MessageService.js           | JavaScript |         18 |          0 |          8 |         26 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\services\TopicService.js             | JavaScript |         21 |          0 |          8 |         29 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\store\index.js                       | JavaScript |         56 |          5 |          6 |         67 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\CommentAddMessageView.vue      | vue        |         25 |          0 |          3 |         28 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\CommentAddTopicView.vue        | vue        |         24 |          0 |          3 |         27 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\CommentEditMessageView.vue     | vue        |         49 |          3 |          4 |         56 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\CommentEditTopicView.vue       | vue        |         49 |          3 |          4 |         56 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\CommentHomeView.vue            | vue        |         45 |          3 |          3 |         51 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\CommentMessageDetailsView.vue  | vue        |         49 |          3 |          3 |         55 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\CommentNotFoundView.vue        | vue        |         14 |          0 |          2 |         16 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\CommentTopicDetailsView.vue    | vue        |         48 |          3 |          3 |         54 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\HomeView.vue                   | vue        |         27 |          0 |          4 |         31 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\LoginView.vue                  | vue        |        105 |          1 |          8 |        114 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\LogoutView.vue                 | vue        |         11 |          0 |          2 |         13 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\ProfileView.vue                | vue        |         29 |          2 |          7 |         38 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\RegisterView.vue               | vue        |        123 |          0 |          9 |        132 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\SocialView.vue                 | vue        |        130 |          3 |          3 |        136 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\VoteView.vue                   | vue        |         31 |          3 |         15 |         49 |
+| c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\vite.config.js                           | JavaScript |         11 |          1 |          3 |         15 |
+| Total                                                                                                           |            |      7,549 |         47 |        207 |      7,803 |
++-----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

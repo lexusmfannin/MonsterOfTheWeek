@@ -1,0 +1,21 @@
+"filename", "language", "vue", "JavaScript", "comment", "blank", "total"
+"c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\App.vue", "vue", 6, 0, 0, -1, 5
+"c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\CommentMessageForm.vue", "vue", -3, 0, 0, 0, -3
+"c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\CommentTopicDetails.vue", "vue", -1, 0, 0, 0, -1
+"c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\CommentTopicForm.vue", "vue", -1, 0, 0, 0, -1
+"c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\GetParty.vue", "vue", 51, 0, 0, 7, 58
+"c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\GlobalLogoHeader.vue", "vue", 23, 0, 0, 1, 24
+"c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\MOTW.vue", "vue", 59, 0, 0, 0, 59
+"c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\NavBar.vue", "vue", 19, 0, 0, 0, 19
+"c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\components\Welcome.vue", "vue", -2, 0, 0, -2, -4
+"c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\router\index.js", "JavaScript", 0, 27, 0, 0, 27
+"c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\CommentEditMessageView.vue", "vue", -3, 0, 3, 0, 0
+"c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\CommentEditTopicView.vue", "vue", -3, 0, 3, 0, 0
+"c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\CommentHomeView.vue", "vue", -3, 0, 3, 0, 0
+"c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\CommentMessageDetailsView.vue", "vue", -3, 0, 3, 0, 0
+"c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\CommentTopicDetailsView.vue", "vue", -3, 0, 3, 0, 0
+"c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\LoginView.vue", "vue", 0, 0, 0, -1, -1
+"c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\ProfileView.vue", "vue", -18, 0, 0, -1, -19
+"c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\SocialView.vue", "vue", 3, 0, 0, 0, 3
+"c:\Users\Student\Workspace\PairProjects\Capstone 3\capstone-team-3\vue\src\views\VoteView.vue", "vue", 0, 0, 0, -1, -1
+"Total", "-", 121, 27, 15, 2, 165
