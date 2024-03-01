@@ -1,5 +1,3 @@
-# Final Capstone
+# Monster of the Week Application
 ​
-This directory contains all of the starter projects for the final capstone.
-​
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+A social application using Java, Rest API, JavaScript, HTML, CSS, Vue.js and SQL. Securely registered users can see a Dungeons and Dragons (DND) API obtained, randomly generated Monster of the Week. Users have the ability to create characters, save them to a character list, create a party with other user's characters, submit the party for voting and then vote for the party they'd like to challenge that week's monster.
